@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mogaki
 
-<!--
-**sudo-lyin/sudo-lyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer and operator based in Johannesburg, South Africa.
 
-Here are some ideas to get you started:
+I work across software development, business systems and IT operations,
+with an interest in making applications useful, maintainable and
+straightforward to operate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of work
+
+- C#/.NET, backend systems and web applications.
+- Business workflows, integrations and automation.
+- Linux, infrastructure and practical security.
+
+## Company work
+
+Explore my company work through [WhiteLyin](https://github.com/WhiteLyin).
+
+[Visit the WhiteLyin website](https://whitelyin.co.za/)
